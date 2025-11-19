@@ -1,4 +1,4 @@
 # 3D Model Minnesota Population Density
 Ever wondered how a realistic Population density map would like? I just doved into it of curiosity and created a  3D model of Minnesota that exactly captures and provides the realistic population distrubution in Minnesota. The real-world uses of 3D Population Density Maps include planning new infrastructure, analyzing the impact of development, improving emergency response by mapping evacuation routes, and optimizing the placement of renewable energy sites. 
 
-Note: To look at the 3D model gif please visit my website : https://sohails-web.netlify.app
+Note: To look at the 3D model gif please visit my website and click on see demo under Projects section.
